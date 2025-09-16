@@ -11,7 +11,14 @@ const wordToEmoji = {
     'eau': '💧',
     'feu': '🔥',
     'terre': '🌍',
+   
     // Ajoute tes propres emojis ici !
+    'crane': '💀',
+    'fleur': '🌸',
+    'arbre': '🌳',
+    'étoile': '⭐',
+    'doigt': '👆',
+    'paix': '✌️',
 };
 
 function convertTextToEmoji(text) {
